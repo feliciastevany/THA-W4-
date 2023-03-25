@@ -1,0 +1,11 @@
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\bin\Debug\THA Winform W4.exe.config
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\bin\Debug\THA Winform W4.exe
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\bin\Debug\THA Winform W4.pdb
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA Winform W4.csproj.AssemblyReference.cache
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA Winform W4.csproj.SuggestedBindingRedirects.cache
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA_Winform_W4.Form1.resources
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA_Winform_W4.Properties.Resources.resources
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA Winform W4.csproj.GenerateResource.cache
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA Winform W4.csproj.CoreCompileInputs.cache
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA Winform W4.exe
+C:\Users\felic\source\repos\THA Winform W4\THA Winform W4\obj\Debug\THA Winform W4.pdb
